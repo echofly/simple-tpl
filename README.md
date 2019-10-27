@@ -1,2 +1,2 @@
 # simple-tpl
-A simple template for testing my own scaffolding
+A simple template for testing my own CLI
